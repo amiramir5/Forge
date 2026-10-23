@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Elevated rounded card outline -->
+    <path
+        android:fillColor="#111317"
+        android:pathData="M34,30 h40 c4.4,0 8,3.6 8,8 v32 c0,4.4 -3.6,8 -8,8 h-40 c-4.4,0 -8,-3.6 -8,-8 v-32 c0,-4.4 3.6,-8 8,-8 z" />
+
+    <!-- Play triangle in pure white -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M50,44 L64,54 L50,64 Z" />
+
+    <!-- Minimalist code brackets -->
+    <path
+        android:pathData="M41,48 L37,54 L41,60"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:strokeWidth="2.5" />
+
+    <path
+        android:pathData="M67,48 L71,54 L67,60"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:strokeWidth="2.5" />
+</vector>
